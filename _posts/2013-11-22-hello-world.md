@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 description: ""
-category: Thinking
+category: "随笔"
 tags: [intro]
 ---
 {% include JB/setup %}
