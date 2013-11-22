@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
-title: "Hello World！"
+title: "Hello World!"
 description: ""
-category: 随笔
+category: Thinking
 tags: [intro]
 ---
 {% include JB/setup %}

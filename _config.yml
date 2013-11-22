@@ -4,11 +4,11 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
-markdown: kramdownd
+markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : DarkNiightµÄ²©¿Í 
+title : DarkNiight's Blog 
 tagline: Site Tagline
 author :
   name : DarkNiight Pan
