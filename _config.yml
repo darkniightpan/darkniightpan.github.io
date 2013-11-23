@@ -14,7 +14,7 @@ author :
   name : DarkNiight Pan
   email : darkniight.pan@gmail.com
   github : darkniightpan
-  twitter : username
+  twitter : DarkniightPan
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : darkniightpan
     livefyre :
       site_id : 123
     intensedebate :
